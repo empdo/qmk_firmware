@@ -1,6 +1,6 @@
 # bug
 
-![bug](imgur.com image replace me!)
+![image](https://github.com/user-attachments/assets/4ddff4ea-ca1c-480d-8854-9cf65bfa6fee)
 
 *A short description of the keyboard/project*
 
